@@ -1,0 +1,30 @@
+.vowels_contain {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.ans {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightskyblue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.submit {
+    cursor: pointer;
+}
+
+.refresh {
+    cursor: pointer;
+}
